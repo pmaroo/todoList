@@ -9,11 +9,16 @@
 
 
 <details>
-<summary>
-  토글 제목
-</summary>
-   토글 안 내용
+  <summary>
+    <h1>
+    ✓ 홈페이지 환경
+    </h1>
+  </summary>
+        ∙ Indexeddb 사용
+        ∙ vite 사용한 React + typescript 환경
+        ∙ typescript style-components 사용
 </details>
+
 
 
 <!-- 
