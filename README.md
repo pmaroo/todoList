@@ -4,6 +4,8 @@
 
 # React + TypeScript + Vite
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmaroo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
