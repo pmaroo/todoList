@@ -7,12 +7,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmaroo)](https://github.com/anuraghazra/github-readme-stats)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={pmaroo}&theme=warm)
-  <img src="http://mazandi.herokuapp.com/api?handle=pmaroo&theme=warm"/>
 
 <details>
   <summary>
-    ✓ 홈페이지 환경
+     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+출처: https://yoon990.tistory.com/38 [개발저장소:티스토리] 홈페이지 환경
   </summary>
         <p>
               ∙ Indexeddb 사용
