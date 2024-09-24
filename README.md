@@ -10,9 +10,13 @@
 
 
 ## 홈페이지 환경
-    ∙ Indexeddb 사용<br/>
-    ∙ vite 사용한 React + typescript 환경<br/>
+    ∙ Indexeddb 사용
+    ∙ vite 사용한 React + typescript 환경
     ∙ typescript style-components 사용
+
+## TODOLIST 기능
+    ∙ 카테고리 CRUD
+    ∙ 카테고리 매칭 테스크 CRUD
 
 
 
