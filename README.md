@@ -7,12 +7,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmaroo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pmaroo)](https://solved.ac/yoon828990)
 
 
 <details>
   <summary>
-      홈페이지 환경
+      ##홈페이지 환경
   </summary>
               ∙ Indexeddb 사용<br/>
               ∙ vite 사용한 React + typescript 환경<br/>
