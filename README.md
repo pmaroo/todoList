@@ -18,6 +18,21 @@
     ∙ 카테고리 CRUD
     ∙ 카테고리 매칭 테스크 CRUD
 
+## 해당 홈페이지 마무리
+    A. indexeddb의 사용법 터득
+      a. indexeddb CRUD
+      b. indexeddb의 createIndex의 사용 이유를 찾지 못함 
+      c. indexeddb의 transaction readwrite에 조건문을 걸어서 가져올 수 있는지 의문
+
+    B. typescript + styleComponents의 사용법 터득
+      a. typescript + styleComponents의 설정법 터득
+      b. typescript + styleComponents의 시너지가 좋은지는 모르겠음 다른 더 좋은 라이브러리로 개선
+      c. globalStyle 설정법 터득못함
+
+    C. typescript의 사용법 터득
+      a. typescript와 javascript의 차이점 이해
+      b. typescript의 명확성은 좋지만 javascript보다 자유성이 떨어짐
+
 
 
 <!-- 
