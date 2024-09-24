@@ -16,11 +16,17 @@ export const Text = styled.p<{
 export const Wrapper = styled.div<{
   width: string;
   $flex: {};
+  maxheight?: string;
+  height?: string;
+  ju?: string;
 }>`
   width: ${(props) => props.width};
   /* 중복선언문제 발생 */
   display: flex;
-  justify-content: ${(props) => props.$flex};
+  justify-content: ${(props) => (props.ju ? props.ju : props.$flex)};
   align-items: ${(props) => props.$flex};
   flex-direction: ${(props) => props.$flex};
+  max-height: ${(props) => props.maxheight};
+  height: ${(props) => props.height};
+  overflow: auto;
 `;

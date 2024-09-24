@@ -107,6 +107,7 @@ export const TaskWholeWrapper = styled.div`
   /* 문제점 : 2중선언 해야하는 코드중첩 */
   justify-content: flex-start;
   padding: 20px;
+  position: relative;
 `;
 
 export const TaskWrapper = styled.div<{
@@ -185,3 +186,14 @@ export const FinishText = styled.p`
 `;
 
 export const TaskDetailWrapper = styled.div``;
+
+export const TaskInput = styled.input`
+  width: calc(100% - 20px);
+  border-radius: 50px;
+  height: 60px;
+  padding: 0 30px;
+  position: absolute;
+  bottom: 20px;
+  left: 10px;
+  border: 1px solid ${({ theme }) => theme.colors.grey};
+`;

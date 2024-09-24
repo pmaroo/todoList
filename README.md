@@ -1,5 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=slice&color=BDBDC8&height=150&section=header" />
+
+
+
 # React + TypeScript + Vite
 
+
+<!-- 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -47,4 +53,6 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 })
-```
+``` -->
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=BDBDC8&height=150&section=footer" />
