@@ -13,13 +13,13 @@
     ✓ 홈페이지 환경
   </summary>
         <p>
-          ∙ Indexeddb 사용
+              ∙ Indexeddb 사용
         </p>
         <p>
-          ∙ vite 사용한 React + typescript 환경
+              ∙ vite 사용한 React + typescript 환경
         </p>
         <p>
-          ∙ typescript style-components 사용
+              ∙ typescript style-components 사용
         </p>
 </details>
 
