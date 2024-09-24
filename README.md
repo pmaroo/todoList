@@ -7,6 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmaroo)](https://github.com/anuraghazra/github-readme-stats)
 
+  <img src="http://mazandi.herokuapp.com/api?handle={pmaroo}&theme=warm"/>
 
 <details>
   <summary>
