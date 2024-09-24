@@ -10,17 +10,11 @@
 
 <details>
   <summary>
-     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> 홈페이지 환경
+      홈페이지 환경
   </summary>
-        <p>
-              ∙ Indexeddb 사용
-        </p>
-        <p>
-              ∙ vite 사용한 React + typescript 환경
-        </p>
-        <p>
+              ∙ Indexeddb 사용<br/>
+              ∙ vite 사용한 React + typescript 환경<br/>
               ∙ typescript style-components 사용
-        </p>
 </details>
 
 
