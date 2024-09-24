@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=2000&pause=500&width=435&lines=React+%2B+Typescript+%2B+Vite;TODOLIST)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmaroo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmaroo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
