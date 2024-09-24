@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=8FC9FF&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8FC9FF&height=150&section=header" />
 
 
 
@@ -55,4 +55,4 @@ export default tseslint.config({
 })
 ``` -->
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8FC9FF&height=150&section=footer" />
