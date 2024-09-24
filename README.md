@@ -10,8 +10,7 @@
 
 <details>
   <summary>
-     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리] 홈페이지 환경
+     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> 홈페이지 환경
   </summary>
         <p>
               ∙ Indexeddb 사용
