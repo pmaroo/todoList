@@ -11,7 +11,7 @@
 
 <details>
   <summary>
-      ##홈페이지 환경
+      ## 홈페이지 환경
   </summary>
               ∙ Indexeddb 사용<br/>
               ∙ vite 사용한 React + typescript 환경<br/>
